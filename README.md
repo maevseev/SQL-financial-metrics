@@ -1,1 +1,1 @@
-# product-metrics-sql
+В рамках проекты был проведен анализ финансовых показателей сервиса доставки продуктов, а также построен дашборд для визуализации метрик в среде Redash (Курс "Симулятор SQL" от KarpovCourses). В репозитории представлены коды на SQL. полноценный дашборд с графиками и текстом доступен по ссылке https://redash.public.karpov.courses/public/dashboards/YhPjL3BSnuYm0FRm1D2oi1cTKJ0MjbPekUWOxNuq?org_slug=default.
